@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Добро пожаловать!"
-date:   2025-04-10 14:10:00 +0300
-categories: regular posts
+title: "Добро пожаловать!"
+date: 2025-04-10 14:10:00 +0300
+categories: posts
 ---
 
 Сегодня мне нечего сказать.
