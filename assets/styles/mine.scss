@@ -9,6 +9,7 @@ html {
 @font-face {
     font-family: "Roboto Mono";
     src: url(/assets/fonts/RobotoMono-VariableFont_wght.ttf) format("truetype");
+    color: #232323;
 }
 
 body {
@@ -24,6 +25,10 @@ ul {
     padding: 0;
 }
 
+.content {
+    margin-top: 44px;
+}
+
 .site-header {
     text-align: center;
     font-size: xx-large;
@@ -31,7 +36,7 @@ ul {
 
 .site-header a, .site-header a:visited {
     text-decoration: none;
-    color: black;
+    color: #232323;
 }
 
 .site-header a:hover {
