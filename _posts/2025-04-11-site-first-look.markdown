@@ -7,4 +7,4 @@ categories: posts
 
 На память. 
 Первая версия моего веб-сайта выглядит вот так:
-![screenshot of my website](/assets/pictures/firtsSiteScreenshot.png)
+![screenshot of my website](/assets/pictures/firstSiteScreenshot.png)
