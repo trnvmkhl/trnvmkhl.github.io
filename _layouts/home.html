@@ -10,7 +10,7 @@ page.list_title-%}
   {%- assign date_format = "%b %-d, %Y" -%} {%- for post in posts -%}
   <li>
     <div>
-      <span class="post-meta">{{ post.date | date: date_format }}:</span>
+      <div class="post-meta">{{ post.date | date: date_format }}</div><span>:</span>
       <a class="post-link" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
