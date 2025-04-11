@@ -27,7 +27,7 @@ url: "https://trnvmkhl.github.io" # the base hostname & protocol for your site, 
 github_username: trnvmkhl
 
 # Build settings
-theme: minima
+theme: null
 plugins:
   - jekyll-feed
 # Exclude from processing.
